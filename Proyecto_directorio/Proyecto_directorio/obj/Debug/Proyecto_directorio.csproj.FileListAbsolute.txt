@@ -1,0 +1,9 @@
+C:\Users\LuiZz\Desktop\Proyecto_directorio\Proyecto_directorio\bin\Debug\Proyecto_directorio.exe.config
+C:\Users\LuiZz\Desktop\Proyecto_directorio\Proyecto_directorio\bin\Debug\Proyecto_directorio.exe
+C:\Users\LuiZz\Desktop\Proyecto_directorio\Proyecto_directorio\bin\Debug\Proyecto_directorio.pdb
+C:\Users\LuiZz\Desktop\Proyecto_directorio\Proyecto_directorio\obj\Debug\Proyecto_directorio.csprojResolveAssemblyReference.cache
+C:\Users\LuiZz\Desktop\Proyecto_directorio\Proyecto_directorio\obj\Debug\Proyecto_directorio.Form1.resources
+C:\Users\LuiZz\Desktop\Proyecto_directorio\Proyecto_directorio\obj\Debug\Proyecto_directorio.Properties.Resources.resources
+C:\Users\LuiZz\Desktop\Proyecto_directorio\Proyecto_directorio\obj\Debug\Proyecto_directorio.csproj.GenerateResource.Cache
+C:\Users\LuiZz\Desktop\Proyecto_directorio\Proyecto_directorio\obj\Debug\Proyecto_directorio.exe
+C:\Users\LuiZz\Desktop\Proyecto_directorio\Proyecto_directorio\obj\Debug\Proyecto_directorio.pdb
